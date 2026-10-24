@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+kaggle.json
+.ms_token
+*.token
+.env
+*.gguf
+*.safetensors
+*.bin
+data/
+adapter*/
+tfcache/
+*.log
