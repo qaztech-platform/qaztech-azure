@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">QAZTECH — Azure Engineer</title>
+  <desc id="desc">Infrastructure code. Local inference. English, Russian, Kazakh, Arabic and Spanish. Developed by AISC Technologies LTD, United Kingdom.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070D19"/><stop offset="1" stop-color="#101C33"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="0"><stop stop-color="#5B9DFF"/><stop offset="1" stop-color="#2358D1"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#20458B" stop-opacity=".28"/><stop offset="1" stop-color="#20458B" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#7B9CC7" stroke-opacity=".05"/></pattern>
+    <clipPath id="canvas"><rect width="1600" height="480" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <rect width="1600" height="480" fill="url(#bg)"/>
+    <rect width="1600" height="480" fill="url(#grid)"/>
+    <circle cx="1370" cy="211" r="330" fill="url(#halo)"/>
+    <rect width="6" height="480" fill="url(#edge)"/>
+    <g fill="none" stroke="#7495C8" opacity=".18">
+      <circle cx="1370" cy="211" r="170"/>
+      <circle cx="1370" cy="211" r="124"/>
+      <circle cx="1370" cy="211" r="236"/>
+      <path d="M1115 211H1610M1370 -30V490"/>
+    </g>
+    <circle cx="1370" cy="211" r="170" fill="none" stroke="#5B9DFF" stroke-width="3" stroke-dasharray="132 940" transform="rotate(-140 1370 211)"/>
+    <circle cx="1370" cy="41" r="5" fill="#5B9DFF"/>
+    <circle cx="1246" cy="211" r="4" fill="#A7C3EF"/>
+    <rect x="80" y="41" width="27" height="27" rx="6" fill="url(#edge)"/>
+    <path d="M88 55h11M93.5 49.5v11" fill="none" stroke="#081222" stroke-width="2"/>
+    <g font-family="DejaVu Sans, Arial, sans-serif">
+      <text x="122" y="63" font-size="26" letter-spacing="4" font-weight="700" fill="#ECF3FF">QAZTECH</text>
+      <text x="80" y="137" font-family="DejaVu Sans Mono, monospace" font-size="19" letter-spacing="2" fill="#5B9DFF">WRITE / REVIEW / TROUBLESHOOT</text>
+      <text x="77" y="236" font-size="88" font-weight="700" letter-spacing="-3" fill="#F4F7FC">Azure Engineer</text>
+      <text x="80" y="294" font-size="32" fill="#B7C8E2">Infrastructure code. Local inference.</text>
+      <rect x="80" y="330" width="52" height="32" rx="5" fill="#18385B"/>
+      <text x="106" y="352" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="18" font-weight="700" fill="#BEEBFF">8B</text>
+      <text x="152" y="352" font-family="DejaVu Sans Mono, monospace" font-size="20" fill="#D4DFEE">EN · RU · KK · AR · ES</text>
+      <path d="M80 392H1520" stroke="#7B9CC7" stroke-opacity=".18"/>
+      <text x="80" y="422" font-size="18" fill="#8FA7C9">AISC Technologies LTD · United Kingdom</text>
+      <text x="1520" y="422" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="18" fill="#9EB5D5">Qwen3-8B / Ollama / GGUF</text>
+    </g>
+  </g>
+</svg>
